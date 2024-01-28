@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **express.js, typescript**
 
-- 👯 I’m looking to collaborate on **MERN stck applications**
+- 👯 I’m looking to collaborate on **MERN stack applications**
 
 - 📫 How to reach me **anaya.purohit09@gmail.com**
 
