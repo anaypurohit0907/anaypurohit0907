@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anaypurohit0907/anaypurohit0907/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -32,10 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/9k1xjw"  />
-</div>
 
-###
+
+
+![9k1xjw](https://github.com/user-attachments/assets/6da58d84-9e02-4dbb-b55d-3a3e518e891b)
+
+
